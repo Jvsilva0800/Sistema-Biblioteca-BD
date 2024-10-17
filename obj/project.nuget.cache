@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "j2vB/THMvAE=",
+  "success": true,
+  "projectFilePath": "D:\\C#\\SistemaBiblioteca\\SistemaBiblioteca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joao\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\Joao\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Joao\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Joao\\.nuget\\packages\\npgsql\\8.0.4\\npgsql.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
